@@ -27,12 +27,7 @@ keywords: ["大田区 樹木葬 費用", "大田区 樹木葬 相場", "大田�
 
 ※料金は立地・植栽の規模・管理費・年間供養料によって変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>墓石ナビ</h3>
-<p>大田区の樹木葬を扱う霊園を一括で検索。費用と見学スケジュールをまとめて相談できる。</p>
-<a href="https://ohaka-erabi.com/?utm_source=yane" class="cta-button" rel="nofollow sponsored" target="_blank">大田区の樹木葬をまとめて確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区の樹木葬で費用差が生まれる4つの理由
 
@@ -59,12 +54,7 @@ keywords: ["大田区 樹木葬 費用", "大田区 樹木葬 相場", "大田�
 3. 管理費と法要費の内訳を同じ枠組みで比較  
 年間管理費に加えて、法要の立ち合い・お布施・墓守の費用を合算すると10年先までの総額が把握しやすい。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>条件を入れるだけで、樹木葬・永代供養・一般墓の候補を一覧で提示。見学予約も一括管理できる。</p>
-<a href="https://ohaka-erabi.com/search?utm_source=ohaka" class="cta-button" rel="nofollow sponsored" target="_blank">見学候補をまとめてチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 永代供養・一般墓との違いと手続きの注意点
 
@@ -88,12 +78,7 @@ keywords: ["大田区 樹木葬 費用", "大田区 樹木葬 相場", "大田�
 ### Q4. 申請中に家族構成が変わった場合、樹木葬の契約はどう変わりますか？
 継承者や参拝者が減る場合は、永代供養への切り替え費用や追加の合祀費が発生することがあります。契約書に「継承者不在時の対応」が明記されているかを確認しておきましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>墓石ナビ</h3>
-<p>樹木葬と永代供養を比較するリストを作成し、見学予約までサポート。条件が変わっても再検索しやすい。</p>
-<a href="https://ohaka-erabi.com/compare?utm_source=ohaka" class="cta-button" rel="nofollow sponsored" target="_blank">比較リストをつくる →</a>
-</div>
+<!-- CTA:bottom -->
 
 大田区で樹木葬を選ぶなら、単価だけでなく「植栽管理」「合祀の条件」「参拝のしやすさ」を揃えて比較することが重要だ。
 まずは資料請求と見学予約を同じ条件で進め、各社の見積もりの内訳を横並びにしてから判断すれば、費用と家族の安心を両立できる。

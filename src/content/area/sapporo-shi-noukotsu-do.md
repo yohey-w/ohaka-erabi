@@ -28,12 +28,7 @@ keywords: ["札幌市 納骨堂", "札幌市 お墓 おすすめ", "札幌市 �
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>札幌市での納骨堂選びと、今のお墓の改葬をまとめて相談できます。冬季対応や地下鉄アクセスもポイント。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂の無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市のお墓事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["札幌市 納骨堂", "札幌市 お墓 おすすめ", "札幌市 �
 
 **総括:** 札幌市内で複数の霊園を比較し、冬季アクセスと屋内設備を中心に現地見学で実際の雰囲気を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>札幌市での霊園選びから改葬手続きまで、地域の事情に詳しいスタッフが対応します。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">札幌市での相談をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -88,12 +78,7 @@ keywords: ["札幌市 納骨堂", "札幌市 お墓 おすすめ", "札幌市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>札幌市での納骨堂選びから改葬手続きまで、ワンストップで対応します。無料相談で最適なプランを見つけられます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂の無料相談をする →</a>
-</div>
+<!-- CTA:bottom -->
 
 札幌市でお墓を探す際は、「冬季アクセスのしやすさ」「宗旨宗派」「費用の総額（初期費用+管理費）」の3点を中心に比較することが大切です。屋内納骨堂なら季節を問わず参拝できるメリットがあります。まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。
 

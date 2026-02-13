@@ -29,12 +29,7 @@ keywords: ["北九州市 樹木葬", "北九州市 お墓 おすすめ", "北九
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>北九州市内の霊園・墓地を一括比較。樹木葬から一般墓まで、あなたの希望に合う施設が見つかります。</p>
-<a href="https://example.com/ohaka" class="cta-button" rel="nofollow sponsored" target="_blank">北九州市の霊園を探す →</a>
-</div>
+<!-- CTA:top -->
 
 ## 北九州市のお墓事情と地域特性
 
@@ -81,12 +76,7 @@ keywords: ["北九州市 樹木葬", "北九州市 お墓 おすすめ", "北九
 
 **総括:** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。できれば3〜5施設を訪問し、スタッフの対応や清潔度、周囲の環境など総合的に判断してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>北九州市の屋内納骨堂をお探しの方に。樹木葬と異なり、屋内で故人を安置でき、天候を気にせずお参りできます。</p>
-<a href="https://example.com/noukotubo" class="cta-button" rel="nofollow sponsored" target="_blank">屋内納骨堂を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -112,12 +102,7 @@ keywords: ["北九州市 樹木葬", "北九州市 お墓 おすすめ", "北九
 
 ## 北九州市でお墓を探すならまずは複数比較から
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>墓石ナビ</h3>
-<p>北九州市のお墓・霊園を一括比較できるサービス。樹木葬から一般墓まで、費用や特徴の比較が簡単です。</p>
-<a href="https://example.com/boseki-navi" class="cta-button" rel="nofollow sponsored" target="_blank">北九州市の霊園を一括比較 →</a>
-</div>
+<!-- CTA:bottom -->
 
 北九州市でお墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。樹木葬・永代供養・納骨堂・一般墓の4つの選択肢があり、ライフスタイルと後継者の有無によって最適な選択が変わります。
 

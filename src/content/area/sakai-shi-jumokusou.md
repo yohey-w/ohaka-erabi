@@ -27,12 +27,7 @@ keywords: ["堺市 樹木葬", "堺市 お墓 おすすめ", "堺市 霊園 費�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>堺市のお墓の整理・撤去をプロがサポート。自宅にいながら全国対応で相談可能です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 堺市のお墓事情と地域特性
 
@@ -62,12 +57,7 @@ keywords: ["堺市 樹木葬", "堺市 お墓 おすすめ", "堺市 霊園 費�
 
 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>堺市の霊園・墓地を一括検索。条件に合わせた最適な選択肢が見つかります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">霊園を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 堺市のお墓選びで、よくある5つの質問
 
@@ -97,11 +87,6 @@ keywords: ["堺市 樹木葬", "堺市 お墓 おすすめ", "堺市 霊園 費�
 
 まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。故人と家族の希望が叶う、最適なお墓選びを応援しています。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>堺市の納骨堂・樹木葬を検索。安心できるお墓選びをサポートします。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">選択肢を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -28,12 +28,7 @@ keywords: ["杉並区 家族墓 費用", "杉並区 お墓 おすすめ", "杉�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>家族墓選びの相談窓口。将来の供養計画をまとめて整理しやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">家族墓の相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区のお墓事情と地域特性
 
@@ -63,12 +58,7 @@ keywords: ["杉並区 家族墓 費用", "杉並区 お墓 おすすめ", "杉�
 
 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>納骨堂型の選択肢も比較したい方に。室内で管理される安定性が評価されています。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂の相談をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,11 +86,6 @@ keywords: ["杉並区 家族墓 費用", "杉並区 お墓 おすすめ", "杉�
 
 杉並区でお墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。丸ノ内線・南北線などの交通利便を活かしながら、現地見学で複数の霊園を実際に見て回ることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>杉並区内での最適なお墓を見つけるなら、専門家のアドバイスを活用できます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">お墓を探す →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

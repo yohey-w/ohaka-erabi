@@ -27,12 +27,7 @@ keywords: ["足立区 霊園 おすすめ", "足立区 霊園 費用", "足立�
 ※料金は立地・区画条件・墓石仕様で変動します。最新情報は公式サイトでご確認ください。  
 ※上記に加えて年間管理費（6,000〜18,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいや改葬の相談窓口。費用項目と手続き順序を初期段階で整理しやすいサービスです。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 足立区で比較時に確認したい4つの視点
 
@@ -48,12 +43,7 @@ keywords: ["足立区 霊園 おすすめ", "足立区 霊園 費用", "足立�
 4. 荒川沿いエリアの天候時負担を確認する  
 足立区は河川沿いの平坦地が多く、夏季の高温日や雨天時の参拝環境に差が出ます。待機スペースや排水状況まで見ておくと実利用を想定しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>将来の継承不安や改葬可能性を踏まえた相談に対応。比較時の確認項目を整理できます。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 永代供養と一般墓、足立区での選び分け
 
@@ -89,12 +79,7 @@ keywords: ["足立区 霊園 おすすめ", "足立区 霊園 費用", "足立�
 ### Q4. 見学時に確認しておくべき項目は何ですか？
 参拝導線、段差、法要室予約条件、年間管理費の範囲を優先して確認してください。雨天時の移動しやすさまで見ておくと、家族利用時の判断精度が上がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>改葬・離檀を含む手続き全体を整理し、家族で比較検討しやすくするための相談窓口です。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 **まとめ**
 

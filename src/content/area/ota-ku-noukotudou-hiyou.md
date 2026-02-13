@@ -29,12 +29,7 @@ keywords: ["大田区 納骨堂 費用", "大田区 納骨堂 相場", "大田�
 ※料金は立地、設備、収蔵期間により変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂への改葬相談窓口。既存のお墓から納骨堂への移行手続きをサポートします。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区の納骨堂事情と地域特性
 
@@ -62,12 +57,7 @@ keywords: ["大田区 納骨堂 費用", "大田区 納骨堂 相場", "大田�
 
 複数の納骨堂を見学し、費用だけでなく参拝のしやすさや施設の雰囲気も含めて比較することが大切です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>既存のお墓から納骨堂への改葬手続きをサポート。書類準備や離檀交渉も相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -93,12 +83,7 @@ keywords: ["大田区 納骨堂 費用", "大田区 納骨堂 相場", "大田�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂への改葬を検討中の方向けに、費用見積もりや手続きの流れを無料で相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 大田区で納骨堂を探す際は、収蔵期間、参拝時間の制約、年間管理費を中心に比較することが重要です。まずは資料請求と現地見学で2〜3施設を比較し、アクセスや雰囲気も含めて総合的に判断することをおすすめします。
 

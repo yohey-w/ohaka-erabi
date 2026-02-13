@@ -32,12 +32,7 @@ keywords: ["横浜市 納骨堂", "横浜市 納骨堂 費用", "横浜市 永�
 
 ※年間管理費は0円〜20,000円程度の設定が見られます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂の比較とあわせて、将来の改葬・墓じまいまで見据えて相談できる窓口です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市で選ばれる納骨堂の種類と、注意して見るべき違い
 
@@ -67,12 +62,7 @@ keywords: ["横浜市 納骨堂", "横浜市 納骨堂 費用", "横浜市 永�
 
 実際に問い合わせると、同条件でも川崎市は駅近重視の価格帯、鎌倉市は敷地規模重視の選択肢が見つかるなど、比較軸の違いが出ることがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>契約前に確認すべき書類や、改葬時に必要な手続きの流れを整理しやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,12 +86,7 @@ keywords: ["横浜市 納骨堂", "横浜市 納骨堂 費用", "横浜市 永�
 
 都心部の人気施設は問い合わせから見学まで2〜4週間待つことがあります。郊外施設は比較的余裕がある場合が多いため、急ぐ場合は複数の施設に同時問い合わせすることをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂選びと将来の墓じまい準備を同時に進めたい方に向いている相談サービスです。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

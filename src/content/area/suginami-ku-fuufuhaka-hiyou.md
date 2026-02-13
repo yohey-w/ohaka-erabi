@@ -29,12 +29,7 @@ keywords: ["杉並区 夫婦墓 費用", "杉並区 夫婦墓 相場", "杉並�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>夫婦墓の検討と同時に、既存のお墓の墓じまい相談も可能。将来設計を一度に整理できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区のお墓事情と地域特性
 
@@ -60,12 +55,7 @@ keywords: ["杉並区 夫婦墓 費用", "杉並区 夫婦墓 相場", "杉並�
 
 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況、参拝導線を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>屋外型納骨墓。墓石不要で費用を抑えつつ、夫婦で入れる区画設計が可能です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">のうこつぼの詳細を見る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +81,7 @@ keywords: ["杉並区 夫婦墓 費用", "杉並区 夫婦墓 相場", "杉並�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>全国の霊園情報を一括比較。杉並区と周辺エリアの夫婦墓を効率的に探せます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">お墓さがしで資料請求する →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で夫婦墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。
 

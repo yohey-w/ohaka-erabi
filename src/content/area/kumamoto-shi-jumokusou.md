@@ -25,12 +25,7 @@ keywords: ["熊本市 樹木葬", "熊本市 お墓 おすすめ", "熊本市 �
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>熊本市での墓じまいや樹木葬への移転をお考えですか？全国対応で、撤去・離檀手続きから樹木葬への納骨まで、一貫したサポートをいたします。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 熊本市のお墓事情と地域特性
 
@@ -58,12 +53,7 @@ keywords: ["熊本市 樹木葬", "熊本市 お墓 おすすめ", "熊本市 �
 
 複数の霊園を比較し、パンフレット取り寄せや現地見学で実際の雰囲気を確認することが、後悔のない選択につながります。特に樹木葬は霊園によって埋葬方法や庭園の雰囲気が大きく異なるため、必ず足を運んで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>熊本市の樹木葬・永代供養から一般墓まで、あなたの希望に合わせた霊園を無料でご紹介。費用比較や立地の相談も可能です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">霊園・墓地を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["熊本市 樹木葬", "熊本市 お墓 おすすめ", "熊本市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>熊本市での納骨堂・樹木葬の選択を検討中ですか？のうこつぼなら、費用面の相談から現地案内までサポートします。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂・樹木葬を相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 熊本市でお墓を選ぶ際の最も大切なポイントは、自分たちのニーズ（宗派、予算、跡継ぎの有無）と地域特性（交通アクセス、利用可能な霊園の種類）の両面から検討することです。樹木葬は熊本市内の複数の霊園で選べるようになり、選択肢は大きく広がっています。
 

@@ -27,12 +27,7 @@ keywords: ["仙台市 納骨堂", "仙台市 納骨堂 費用", "仙台市 納�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>全国対応のお墓撤去・離檀サポート。納骨堂への改葬相談も可能です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 仙台市の納骨堂事情と地域特性
 
@@ -58,12 +53,7 @@ keywords: ["仙台市 納骨堂", "仙台市 納骨堂 費用", "仙台市 納�
 
 複数の施設を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>お墓の撤去・改葬手続きを全国対応でサポート。納骨堂への移転相談も可能です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["仙台市 納骨堂", "仙台市 納骨堂 費用", "仙台市 納�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>お墓の撤去・離檀サポート。納骨堂への改葬相談も全国対応で承ります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:bottom -->
 
 仙台市で納骨堂を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。まずは資料請求や現地見学で、複数の施設を実際に見て回ることをおすすめします。地下鉄沿線の利便性と郊外の静けさ、どちらを優先するかで最適な選択肢が変わります。
 

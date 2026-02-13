@@ -25,12 +25,7 @@ keywords: ["新潟市 永代供養 費用", "新潟市 お墓 おすすめ", "�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>新潟市でお墓の撤去・離檀をサポート。全国対応で無料相談が可能です。永代供養への改装もお気軽に。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市のお墓事情と地域特性
 
@@ -56,12 +51,7 @@ keywords: ["新潟市 永代供養 費用", "新潟市 お墓 おすすめ", "�
 
 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>新潟市の霊園を効率的に探すなら。資料請求から見学予約まで、ワンストップでサポートします。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">お墓さがしで霊園を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -87,12 +77,7 @@ keywords: ["新潟市 永代供養 費用", "新潟市 お墓 おすすめ", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>新潟市の納骨堂情報が豊富。都市型霊園をお探しなら、こちらで詳細情報が確認できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">のうこつぼで納骨堂を探す →</a>
-</div>
+<!-- CTA:bottom -->
 
 新潟市でお墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。冬季気象の影響を受けにくい屋内納骨堂の選択肢も検討し、自分や家族の希望に合わせた選択をすることをおすすめします。
 

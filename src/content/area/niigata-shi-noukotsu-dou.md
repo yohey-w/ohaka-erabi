@@ -27,12 +27,7 @@ keywords: ["新潟市 納骨堂", "新潟市 お墓 おすすめ", "新潟市 �
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>全国対応の墓じまい専門サービス。古いお墓から新しいお墓への改葬や、離檀手続きもサポートします。</p>
-<a href="https://www.watashitachi-no-hakajimai.com" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまい相談を始める →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市のお墓事情と地域特性
 
@@ -60,12 +55,7 @@ keywords: ["新潟市 納骨堂", "新潟市 お墓 おすすめ", "新潟市 �
 
 **総括：** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。特に冬季のアクセス条件と管理体制は、新潟市でお墓を選ぶ際の重要なポイントです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>全国の霊園・墓地を検索できるサービス。地域の霊園情報が充実しており、資料請求も簡単です。</p>
-<a href="https://www.ohaka-sagashi.com" class="cta-button" rel="nofollow sponsored" target="_blank">霊園を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +81,7 @@ keywords: ["新潟市 納骨堂", "新潟市 お墓 おすすめ", "新潟市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>納骨堂専門の検索・予約サービス。都市部の納骨堂から郊外の施設まで、幅広い選択肢を比較できます。</p>
-<a href="https://www.noukotsubo.com" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂を探す →</a>
-</div>
+<!-- CTA:bottom -->
 
 新潟市でお墓を探す際は、宗旨宗派・冬季のアクセス・費用の3点を中心に比較することが大切です。まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。
 

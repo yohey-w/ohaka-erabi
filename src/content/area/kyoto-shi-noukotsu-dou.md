@@ -29,12 +29,7 @@ keywords: ["京都市 納骨堂", "京都市 納骨堂 費用", "京都市 納�
 ※料金は立地、設備、収蔵期間により変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて、年間5,000〜20,000円程度の管理費が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂への改葬・転入サポートや将来の供養計画をまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 京都市の納骨堂事情と地域特性
 
@@ -56,12 +51,7 @@ keywords: ["京都市 納骨堂", "京都市 納骨堂 費用", "京都市 納�
 4. **寺院の宗派と法要対応の可否**
 京都は宗派の伝統が強い地域です。納骨堂が属する寺院の宗派を確認し、自分（またはご家族）の宗派に対応しているかを先に確認することで、後々の違和感を防げます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>納骨堂専門の検索・比較サービス。京都市内の納骨堂から条件にぴったり合う施設を見つけやすくなります。</p>
-<a href="https://www.noukotsubo.com" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -85,12 +75,7 @@ keywords: ["京都市 納骨堂", "京都市 納骨堂 費用", "京都市 納�
 
 契約から納骨まで2〜4週間程度が目安です。寺院のスケジュール確認が必要なため、余裕を持ったスケジュール調整をおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>現在のお墓から納骨堂への改葬手続きをワンストップでサポートします。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">改葬サポートを相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

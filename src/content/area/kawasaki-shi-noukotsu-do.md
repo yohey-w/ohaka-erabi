@@ -29,12 +29,7 @@ keywords: ["川崎市 納骨堂", "川崎市 納骨堂 費用", "川崎市 納�
 ※料金は立地・設備・収蔵期間により変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまい・改葬の相談窓口。納骨堂への改葬と将来の供養計画をまとめて整理しやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川崎市の納骨堂事情と地域特性
 
@@ -63,12 +58,7 @@ keywords: ["川崎市 納骨堂", "川崎市 納骨堂 費用", "川崎市 納�
 
 複数の納骨堂を比較し、現地見学で実際の雰囲気や参拝導線を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>書類準備や改葬手続きの流れを確認でき、将来の選択肢まで見据えて比較したい方に向いています。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -94,12 +84,7 @@ keywords: ["川崎市 納骨堂", "川崎市 納骨堂 費用", "川崎市 納�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂の比較とあわせて、将来の墓じまい費用や手続き準備をまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 川崎市で納骨堂を探す際は、収蔵期間・アクセス・年間管理費の3点を中心に比較することが大切です。まずは資料請求や現地見学で、複数の施設を実際に見て回ることをおすすめします。
 

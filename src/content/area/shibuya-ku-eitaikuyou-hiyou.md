@@ -29,12 +29,7 @@ keywords: ["渋谷区 永代供養 費用", "渋谷区 永代供養 相場", "�
 ※上記は契約時の主な費用目安で、法要料・彫刻費・追加納骨費が別途かかる場合があります。  
 ※年間管理費は0円〜15,000円程度まで幅があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいの相談窓口。改葬や離檀の流れを事前に整理したい場合に使いやすいサービスです。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 費用差が出る3つのポイント
 
@@ -58,12 +53,7 @@ keywords: ["渋谷区 永代供養 費用", "渋谷区 永代供養 相場", "�
 - 将来の改葬可能性  
   子世代の居住地が変わる可能性があるなら、改葬時の書類対応や手数料を確認しておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>継承者不在や将来の改葬を見据えた相談に対応。必要書類と費用項目を事前に把握できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 一般墓と永代供養、渋谷区ではどちらが合う？
 
@@ -92,12 +82,7 @@ keywords: ["渋谷区 永代供養 費用", "渋谷区 永代供養 相場", "�
 個別安置期間中の法要回数や、銘板への記載内容を家族で整理しておくと後悔が減ります。  
 将来改葬の可能性がある場合は、必要書類と手数料も事前に確認しておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>将来の改葬も見据えて、必要書類や費用の流れを整理したい方に向く相談窓口です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ### まとめ
 

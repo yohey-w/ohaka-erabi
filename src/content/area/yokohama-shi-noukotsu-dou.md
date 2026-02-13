@@ -29,12 +29,7 @@ keywords: ["横浜市 納骨堂", "横浜市 納骨堂 費用", "横浜市 納�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>全国対応。お墓の撤去・離檀サポート。将来の納骨計画とあわせて整理しやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市のお墓事情と地域特性
 
@@ -64,12 +59,7 @@ keywords: ["横浜市 納骨堂", "横浜市 納骨堂 費用", "横浜市 納�
 
 複数の納骨堂を比較し、資料だけでなく現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいと改葬の手続きをサポート。将来の供養計画とあわせて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -95,12 +85,7 @@ keywords: ["横浜市 納骨堂", "横浜市 納骨堂 費用", "横浜市 納�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>納骨堂への改葬や墓じまいの手続きをサポート。書類準備から供養先の相談まで対応できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 横浜市で納骨堂を選ぶ際は、費用・アクセス・収蔵期間の3点を中心に比較することが大切です。
 駅近施設は参拝しやすい反面、費用が高めになりやすいため、参拝頻度とのバランスを考えて選ぶと判断しやすくなります。

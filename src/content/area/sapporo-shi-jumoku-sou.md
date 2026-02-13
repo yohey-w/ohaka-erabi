@@ -32,12 +32,7 @@ keywords: ["札幌市 樹木葬", "札幌市 樹木葬 費用", "札幌市 自�
 
 ※上記に加えて年間管理費（3,000〜12,000円程度）が必要な場合があります。寒冷地特有の冬季メンテナンス費が別途加算される施設もあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬への改葬サポート。移転手続きから現地選定まで、札幌の冬季対応施設を熟知したスタッフが支援します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまい・樹木葬相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市の樹木葬事情と寒冷地特性
 
@@ -63,12 +58,7 @@ keywords: ["札幌市 樹木葬", "札幌市 樹木葬 費用", "札幌市 自�
 
 複数の札幌市内施設を比較し、現地見学で冬季の雰囲気・樹木の健全性・参拝スペースの広さを確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>札幌市の樹木葬施設から、寒冷地対応の納骨堂併設施設まで多角的に比較できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">施設を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -92,12 +82,7 @@ keywords: ["札幌市 樹木葬", "札幌市 樹木葬 費用", "札幌市 自�
 
 樹木の枯死リスクに対応するため、複数樹木への埋葬選択肢を提供する施設があります。樹木が枯死した場合の保証内容を事前確認し、将来の樹木変更が可能かどうかを契約書に確認することが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>札幌市の樹木葬施設を一覧比較。資料請求や見学予約を簡単に進められます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">札幌の樹木葬を検索する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

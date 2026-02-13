@@ -25,12 +25,7 @@ keywords: ["相模原市 樹木葬", "相模原市 お墓 おすすめ", "相模
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>相模原市での墓じまい・離檀サポートなら、全国対応の「わたしたちの墓じまい」。複雑な手続きを丸ごとサポートします。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379411&p_id=6963&pc_id=19919&pl_id=88012" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 相模原市のお墓事情と地域特性
 
@@ -54,12 +49,7 @@ keywords: ["相模原市 樹木葬", "相模原市 お墓 おすすめ", "相模
 
 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。特に樹木葬を検討している場合は、埋葬エリアの環境や維持管理方針を詳しく確認することが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>相模原市の霊園・墓地を一括検索。自分のニーズに合った施設を効率よく探すことができます。資料請求も簡単。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">霊園を検索する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 相模原市のお墓・霊園についてよくある質問
 
@@ -85,12 +75,7 @@ keywords: ["相模原市 樹木葬", "相模原市 お墓 おすすめ", "相模
 
 ## 相模原市でお墓を探すなら、複数の霊園比較が成功の鍵
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>都市型納骨堂の選択肢を広げたいなら「のうこつぼ」。相模原市近辺での最新情報も充実。小スペースで費用も抑えられます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7B5M5U+4HHW+5YJRM" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂を検索する →</a>
-</div>
+<!-- CTA:bottom -->
 
 相模原市でお墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。市内には民営霊園から寺院墓地まで多様な選択肢があり、樹木葬から一般墓まで様々な埋葬方法に対応した施設が充実しています。
 

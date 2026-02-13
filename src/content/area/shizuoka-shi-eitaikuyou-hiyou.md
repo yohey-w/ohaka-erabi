@@ -27,12 +27,7 @@ keywords: ["静岡市 永代供養 費用", "静岡市 お墓 おすすめ", "�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>永代供養と将来の供養計画をまとめて相談できます。静岡市内の施設比較もサポート。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談を申し込む →</a>
-</div>
+<!-- CTA:top -->
 
 ## 静岡市のお墓事情と地域特性
 
@@ -58,12 +53,7 @@ keywords: ["静岡市 永代供養 費用", "静岡市 お墓 おすすめ", "�
 
 **総括:** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>納骨堂に特化した検索サービス。屋内で参拝できるため、天候に左右されず快適に供養できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂を検索する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["静岡市 永代供養 費用", "静岡市 お墓 おすすめ", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>静岡市全域の霊園を一括比較できるサービス。費用・立地・評判で絞り込めます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">霊園を検索する →</a>
-</div>
+<!-- CTA:bottom -->
 
 静岡市でお墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。南北に広い地形のため、家族が通いやすいエリアを先に絞ることで、効率的に候補を探せます。まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。
 

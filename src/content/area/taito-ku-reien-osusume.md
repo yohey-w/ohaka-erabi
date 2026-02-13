@@ -29,12 +29,7 @@ keywords: ["台東区 霊園 おすすめ", "台東区 霊園 費用", "台東�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。  
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>改葬や離檀を含めて相談できる窓口です。費用の内訳を先に整理したい方に向いています。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 台東区で後悔を減らす比較ポイント4つ
 
@@ -50,12 +45,7 @@ keywords: ["台東区 霊園 おすすめ", "台東区 霊園 費用", "台東�
 4. 区内限定にしすぎない  
 台東区内に絞ると候補が減ることがあります。荒川区・墨田区・文京区まで比較範囲を広げると、予算と条件のバランスが取りやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>承継者不在や将来の改葬を見据えた情報整理に使える相談サービスです。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 永代供養と一般墓、台東区では何が違う？
 
@@ -88,12 +78,7 @@ keywords: ["台東区 霊園 おすすめ", "台東区 霊園 費用", "台東�
 | 継承 | 一般墓/永代供養の条件 | 合祀時期の明記有無 |
 | 設備 | 法要室・待合・バリアフリー | 利用可能日時の制約 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>見積前に必要書類や進行の全体像を把握できるため、比較の準備がしやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

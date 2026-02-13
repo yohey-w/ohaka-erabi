@@ -28,12 +28,7 @@ keywords: ["新潟市 樹木葬", "新潟市 お墓 おすすめ", "新潟市 �
 
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>新潟市でお墓をお探しなら、専門家による無料相談がおすすめです。霊園選びのポイントから費用相談まで、安心をサポート。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市のお墓事情と地域特性
 
@@ -59,12 +54,7 @@ keywords: ["新潟市 樹木葬", "新潟市 お墓 おすすめ", "新潟市 �
 
 **総括：** 新潟市でお墓を探す際は、宗派、アクセス、冬季対応、後継者の有無を総合的に判断することが大切です。まずは複数の霊園の資料を取り寄せ、現地見学で雰囲気や冬季対応の体制を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>屋内納骨堂なら、新潟の厳しい冬でも快適にお参りできます。樹木葬との組み合わせも可能。無料で施設見学の予約ができます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">無料見学を予約する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -90,12 +80,7 @@ keywords: ["新潟市 樹木葬", "新潟市 お墓 おすすめ", "新潟市 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>新潟市でのお墓選びは複雑ですが、専門家の無料相談でスムーズに進みます。樹木葬から永代供養まで、最適なプランが見つかります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379412&p_id=938&pc_id=1198&pl_id=18548" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談を申し込む →</a>
-</div>
+<!-- CTA:bottom -->
 
 新潟市でお墓を探す際は、宗旨宗派・アクセス・費用・冬季対応の4点を中心に比較することが大切です。特に樹木葬をお考えの方は、降雪地特有の課題（冬期の参墓困難、草木の管理）を理解した上で施設を選ぶ必要があります。まずは複数の霊園から資料を取り寄せ、現地見学で実際の雰囲気や冬季対応の体制を確認することをおすすめします。
 

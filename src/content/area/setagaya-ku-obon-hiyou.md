@@ -31,12 +31,7 @@ keywords: ["世田谷区 お盆 費用", "世田谷区 お盆 法要", "世田�
 ※料金は地域、宗派、法要の規模により変動します。最新情報は菩提寺・霊園にご確認ください。
 ※上記は一般的な仏教の場合です。宗派により作法や費用が異なる場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>墓石ナビ</h3>
-<p>全国5,000件以上の霊園情報を掲載。お盆の法要ができる霊園や、アクセスの良い墓地を比較検討できます。</p>
-<a href="https://www.boseki-navi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">墓石ナビで霊園を探す →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区でお盆費用が変わる3つのポイント
 
@@ -70,12 +65,7 @@ keywords: ["世田谷区 お盆 費用", "世田谷区 お盆 法要", "世田�
 
 ただし、初盆だけは親族や故人と親しかった方を招いて供養するのが一般的です。通常のお盆は簡素にしても、初盆は丁寧に行うというメリハリをつける家庭が増えています。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>納骨堂タイプの永代供養。お盆の時期も天候に左右されずお参りでき、管理費も抑えられます。</p>
-<a href="https://www.noukotsubo.co.jp/" class="cta-button" rel="nofollow sponsored" target="_blank">のうこつぼの詳細を見る →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 世田谷区のお盆事情と地域特性
 
@@ -120,12 +110,7 @@ keywords: ["世田谷区 お盆 費用", "世田谷区 お盆 法要", "世田�
 また、自宅に盆棚を作り、位牌に向かって供養する方法もあります。
 大切なのは形式ではなく、故人を偲ぶ気持ちです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>世田谷区周辺の霊園を一括比較。お盆に通いやすい立地や、永代供養の選択肢を探せます。</p>
-<a href="https://www.ohakasagashi.net/" class="cta-button" rel="nofollow sponsored" target="_blank">お墓さがしで霊園を比較する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

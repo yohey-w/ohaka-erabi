@@ -26,12 +26,7 @@ keywords: ["浜松市 納骨堂", "浜松市 納骨堂 費用", "浜松市 永�
 
 ※料金は立地・施設・安置期間により変動します。年間管理費（3,000〜10,000円程度）が別途必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>全国対応の墓じまいサポート。納骨堂への改葬やお墓の撤去もプロが対応。無料相談で最適なプランを提案します。</p>
-<a href="https://www.watashitachi-hakajimai.com/" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 浜松市のお墓・納骨堂事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["浜松市 納骨堂", "浜松市 納骨堂 費用", "浜松市 永�
 
 **総括：** 浜松市の納骨堂選びでは、設備・費用・アクセスの3点が重要です。まずは施設の資料請求や見学予約から始めましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>浜松市の納骨堂・霊園情報が豊富。こだわり条件で検索でき、複数施設の資料を一括請求できます。</p>
-<a href="https://www.ohaka-sagashi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">浜松市の納骨堂を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 浜松市の納骨堂に関するよくある質問
 
@@ -88,12 +78,7 @@ keywords: ["浜松市 納骨堂", "浜松市 納骨堂 費用", "浜松市 永�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>浜松市周辺の納骨堂情報が豊富。費用・設備・立地で比較でき、オンライン相談も対応しています。</p>
-<a href="https://noukotsoubo.com/" class="cta-button" rel="nofollow sponsored" target="_blank">浜松市の納骨堂を比較する →</a>
-</div>
+<!-- CTA:bottom -->
 
 浜松市で納骨堂を探す際は、自動搬送式・ロッカー式・仏壇式など「設備の特徴」、初期費用と年間管理費を合わせた「総額」、そして「駐車場やアクセス」の3点を中心に比較することが大切です。後継者がいない方や、定期的なお参りが難しい方にとって、納骨堂は経済的で実用的な選択肢となります。
 

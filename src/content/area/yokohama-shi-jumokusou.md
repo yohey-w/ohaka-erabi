@@ -27,12 +27,7 @@ keywords: ["横浜市 樹木葬", "横浜市 樹木葬 費用", "横浜市 樹�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬と従来のお墓の違いを丁寧に説明。横浜市での施工実績が豊富で、予算に合わせたプラン提案が得意です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">樹木葬の費用を相談する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市のお墓事情と地域特性
 
@@ -56,12 +51,7 @@ keywords: ["横浜市 樹木葬", "横浜市 樹木葬 費用", "横浜市 樹�
 
 複数の樹木葬施設を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>横浜市内の樹木葬施設を一括比較。個別埋葬期間や年間管理費などの条件をそろえて検討できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">樹木葬施設を比較する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -82,12 +72,7 @@ keywords: ["横浜市 樹木葬", "横浜市 樹木葬 費用", "横浜市 樹�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>横浜市内の納骨堂・樹木葬を幅広く取り扱い。資料請求から現地見学までの流れをサポートします。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">樹木葬の資料を請求する →</a>
-</div>
+<!-- CTA:bottom -->
 
 横浜市で樹木葬を選ぶ際は、埋葬方法・年間管理費・参拝しやすさの3点を中心に比較することが大切です。まずは資料請求や現地見学で、複数の樹木葬施設を実際に見て回ることをおすすめします。
 

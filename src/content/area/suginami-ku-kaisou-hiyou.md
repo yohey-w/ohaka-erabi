@@ -42,12 +42,7 @@ keywords: ["杉並区 改葬 費用", "杉並区 墓じまい 費用", "杉並�
 
 改葬の総額は、最も安い場合で20万円程度（永代供養への移転）、墓石を新設する場合は100万〜400万円になることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>全国対応のお墓撤去・改葬サポート。離檀交渉から行政手続きまで丸ごとサポートします。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 改葬費用を抑える3つのコツ
 
@@ -84,12 +79,7 @@ keywords: ["杉並区 改葬 費用", "杉並区 墓じまい 費用", "杉並�
 5. **新しいお墓に納骨**
    改葬許可証を持参し、新しいお墓に納骨します。開眼供養（魂入れ）を行う場合もあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>書類準備や改葬手続きの流れを確認でき、将来の選択肢まで見据えて比較したい方に向いています。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 改葬時に注意すべきポイント
 
@@ -127,12 +117,7 @@ keywords: ["杉並区 改葬 費用", "杉並区 墓じまい 費用", "杉並�
 
 杉並区には複数の霊園・納骨堂がありますが、費用や宗派の制限、アクセスの良さで選ぶ基準が異なります。まずは複数の施設を見学し、比較することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>改葬の比較とあわせて、将来の墓じまい費用や手続き準備をまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

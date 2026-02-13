@@ -29,12 +29,7 @@ keywords: ["杉並区 自然葬 費用", "杉並区 樹木葬 相場", "杉並�
 ※料金は立地、埋葬方法、個別安置期間で変動します。最新情報は公式サイトでご確認ください。
 ※樹木葬の場合、年間管理費（3,000〜10,000円程度）が必要な施設もあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまい・改葬の相談窓口。自然葬への切り替えと将来の供養計画をまとめて整理しやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の自然葬事情と地域特性
 
@@ -60,12 +55,7 @@ keywords: ["杉並区 自然葬 費用", "杉並区 樹木葬 相場", "杉並�
 
 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>書類準備や改葬手続きの流れを確認でき、将来の選択肢まで見据えて比較したい方に向いています。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["杉並区 自然葬 費用", "杉並区 樹木葬 相場", "杉並�
 
 合祀後は基本的に遺骨の取り出しができません。個別安置期間中であれば変更可能な場合もありますが、契約条件次第です。迷っている場合は、個別安置期間が長いプランを選ぶと選択肢が広がります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>自然葬の比較とあわせて、将来の墓じまい費用や手続き準備をまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -29,12 +29,7 @@ keywords: ["大阪市 樹木葬", "大阪市 樹木葬 費用", "大阪市 樹�
 ※料金は立地・樹木種・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬への改葬・移転サポートも実施中。既存のお墓から樹木葬への切り替えもまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">樹木葬の無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大阪市の樹木葬事情と地域特性
 
@@ -57,12 +52,7 @@ keywords: ["大阪市 樹木葬", "大阪市 樹木葬 費用", "大阪市 樹�
 
 **総括:** 複数の樹木葬を実際に見学し、樹木の樹種・配置・参拝環境をご自身の目で確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬への改葬手続きや埋葬形式の相談、書類準備までサポートしています。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -86,12 +76,7 @@ keywords: ["大阪市 樹木葬", "大阪市 樹木葬 費用", "大阪市 樹�
 
 施設による差が大きい部分です。遺骨の移動を想定している場合は、契約時に「改葬時の費用」「遺骨引き渡しの条件」を書面で確認しておくことが重要です。特に合祀後の遺骨取り出しは不可能なケースがほとんどです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬への改葬や既存のお墓の処分についても、一貫してサポートできます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

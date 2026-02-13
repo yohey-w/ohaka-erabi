@@ -27,12 +27,7 @@ keywords: ["荒川区 霊園 おすすめ", "荒川区 霊園 費用", "荒川�
 ※料金は立地・区画条件・墓石仕様で変動します。最新情報は公式サイトでご確認ください。  
 ※上記に加えて年間管理費（6,000〜18,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいや改葬の相談窓口。費用の全体像と手続き順序を先に整理しやすいサービスです。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 荒川区で見落としやすい4つの確認ポイント
 
@@ -48,12 +43,7 @@ keywords: ["荒川区 霊園 おすすめ", "荒川区 霊園 費用", "荒川�
 4. 荒川低地の気候・地形を踏まえて確認する  
 夏季の高温日や雨天時を想定し、屋外墓地の足元環境、待機スペース、排水状況を見ておくと、実際の参拝時の負担を想像しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>継承者不在や将来の改葬を見据えた相談に対応。検討段階で必要書類を整理できます。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 永代供養と一般墓、荒川区ではどう選ぶ？
 
@@ -91,12 +81,7 @@ keywords: ["荒川区 霊園 おすすめ", "荒川区 霊園 費用", "荒川�
 ### Q4. 申し込み前に現地で何を確認すべきですか？
 参拝導線、坂道や段差、法要室予約条件、年間管理費の範囲を優先して確認してください。雨天時の動線まで確認すると、家族の利用場面を想定しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>改葬や離檀の手続きを含めて整理し、家族で納得して進めるための相談窓口です。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 **まとめ**
 

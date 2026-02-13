@@ -29,12 +29,7 @@ keywords: ["浜松市 永代供養 費用", "浜松市 永代供養 相場", "�
 ※料金は立地、設備、個別安置年数で変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて、年間5,000〜15,000円程度の管理費が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまい・改葬の相談窓口。永代供養と将来の供養計画をまとめて整理しやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 浜松市で費用差が出る3つのポイント
 
@@ -47,12 +42,7 @@ keywords: ["浜松市 永代供養 費用", "浜松市 永代供養 相場", "�
 3. 管理費と追加納骨費の扱い
 「永代供養料に何が含まれるか」が施設ごとに異なります。銘板追加費、法要費、納骨立会い費が別料金かどうかを同じフォーマットで比べると、見積差の理由が明確になります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>書類準備や改葬手続きの流れを確認でき、将来の選択肢まで見据えて比較したい方に向いています。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 浜松市でお墓を選ぶ際の確認点
 
@@ -91,12 +81,7 @@ keywords: ["浜松市 永代供養 費用", "浜松市 永代供養 相場", "�
 
 永代供養でも条件によっては可能な施設があります。将来的に別の地域への引越しやお墓の引越しを検討している場合は、契約時に「改葬対応」について確認しておくことをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>永代供養の比較とあわせて、将来の墓じまい費用や手続き準備をまとめて相談できます。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=5379005&p_id=3509&pc_id=8461&pl_id=49639" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

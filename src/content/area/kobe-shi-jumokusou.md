@@ -29,12 +29,7 @@ keywords: ["神戸市 樹木葬", "神戸市 樹木葬 費用", "神戸市 樹�
 ※料金は立地・樹木の種類・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（8,000〜20,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬と従来の墓地を比較したい方向け。改葬手続きから永代供養まで一貫サポートします。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=..." class="cta-button" rel="nofollow sponsored" target="_blank">墓じまい無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 神戸市の樹木葬事情と地域特性
 
@@ -60,12 +55,7 @@ keywords: ["神戸市 樹木葬", "神戸市 樹木葬 費用", "神戸市 樹�
 
 **総括:** 複数の樹木葬施設を見学し、埋葬方法・費用・アクセスを同じ条件で比べることで、家族に最適なプランが見えてきます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>神戸市内の樹木葬施設を一括検索。費用比較から見学予約まで手軽に進められます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=..." class="cta-button" rel="nofollow sponsored" target="_blank">樹木葬施設を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +81,7 @@ keywords: ["神戸市 樹木葬", "神戸市 樹木葬 費用", "神戸市 樹�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>樹木葬への改葬手続きや従来の墓地の撤去を一貫サポート。安心の相談体制が整っています。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=..." class="cta-button" rel="nofollow sponsored" target="_blank">改葬手続き相談をする →</a>
-</div>
+<!-- CTA:bottom -->
 
 神戸市で樹木葬を選ぶときは、埋葬方法・年間管理費・アクセスを同じ条件で比べることが重要です。駅近と郊外でコストが大きく異なるため、家族のライフスタイルに合わせた施設選択が判断を誤りません。まずは資料請求と現地見学で2〜3施設を比較し、実際の雰囲気と管理状況を確認することをおすすめします。
 

@@ -29,12 +29,7 @@ keywords: ["大田区 散骨 費用", "大田区 散骨 相場", "大田区 樹�
 ※料金は施設の立地、埋葬方法、供養プランにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて、年間管理費（0〜10,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>散骨と遺骨の扱いについて、専門家に相談しながら選択肢を整理できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">散骨の無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大田区での散骨事情と地域特性
 
@@ -60,12 +55,7 @@ keywords: ["大田区 散骨 費用", "大田区 散骨 相場", "大田区 樹�
 
 **総括:** 複数の散骨施設や業者を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>散骨サービスの選び方や書類手続きの流れを確認でき、複数の施設を比較検討したい方に向いています。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -89,12 +79,7 @@ keywords: ["大田区 散骨 費用", "大田区 散骨 相場", "大田区 樹�
 
 樹木葬や庭園埋葬の場合、契約時に改葬可否を確認する必要があります。施設によって対応が異なるため、長期的な計画を踏まえて事前に条件を確認しておくことをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>散骨の選択肢や手続きをまとめて相談でき、将来の供養計画を立てやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

@@ -31,12 +31,7 @@ keywords: ["堺市 墓じまい 費用", "堺市 墓じまい 相場", "堺市 �
 
 ※上記に加えて、撤去完了までの期間が3〜6ヶ月かかるため、スケジュール調整が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいの全体的な流れと費用構成を整理できます。堺市内の施工例も多く、相談しやすい窓口です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談で費用を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 堺市の墓じまい事情と地域特性
 
@@ -62,12 +57,7 @@ keywords: ["堺市 墓じまい 費用", "堺市 墓じまい 相場", "堺市 �
 
    堺市の区役所での改葬許可申請、現在の墓地からの埋蔵証明取得、新施設への受け入れ確認書など、複数の書類手続きが並行して進みます。一連の手続きに2〜3ヶ月要することが多いため、早めの着手が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>行政手続きの複雑さを専門スタッフが手厚くサポートします。堺市内の事例も豊富です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -91,12 +81,7 @@ keywords: ["堺市 墓じまい 費用", "堺市 墓じまい 相場", "堺市 �
 
 通常は現在の墓地の管理者、または寺院で一時保管されます。保管期間の延長費用が発生することがあるため、事前に期間と費用を確認することが大切です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>手続きの進め方を明確にしておくことで、安心して進められます。無料相談で不安な点を解消できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談を申し込む →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

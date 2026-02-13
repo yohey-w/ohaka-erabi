@@ -27,12 +27,7 @@ keywords: ["川口市 永代供養 費用", "川口市 お墓 おすすめ", "�
 ※料金は立地・墓石のグレード・区画サイズにより変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>永代供養の相談窓口。川口市の霊園比較と合わせて、将来の供養計画をまとめて整理できます。</p>
-<a href="https://www.watashitachi-no-hakoji.com/" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川口市のお墓事情と地域特性
 
@@ -54,12 +49,7 @@ keywords: ["川口市 永代供養 費用", "川口市 お墓 おすすめ", "�
 
 **総括:** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>川口市内の霊園から、条件に合わせた最適な選択肢を見つけやすくなります。</p>
-<a href="https://www.hakasagashi.jp/" class="cta-button" rel="nofollow sponsored" target="_blank">霊園比較を始める →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -85,12 +75,7 @@ keywords: ["川口市 永代供養 費用", "川口市 お墓 おすすめ", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>川口市での霊園選びと合わせて、将来の墓じまいや改葬についても相談できます。</p>
-<a href="https://www.watashitachi-no-hakoji.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談を開始する →</a>
-</div>
+<!-- CTA:bottom -->
 
 川口市でお墓を探す際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。東京に近い立地を活かしながら、埼玉県内の多様な選択肢も視野に入れることで、より納得のいく選択肢が見つかります。まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。
 

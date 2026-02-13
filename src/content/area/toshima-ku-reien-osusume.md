@@ -29,12 +29,7 @@ keywords: ["豊島区 霊園 おすすめ", "豊島区 霊園 費用", "豊島�
 ※料金は立地・区画サイズ・石材仕様で変動します。最新情報は各公式サイトでご確認ください。  
 ※上記に加えて年間管理費（6,000〜18,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいや改葬の相談窓口。必要書類と費用の流れを先に整理したい方に向くサービスです。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 豊島区で失敗しにくい3つの確認ポイント
 
@@ -47,12 +42,7 @@ keywords: ["豊島区 霊園 おすすめ", "豊島区 霊園 費用", "豊島�
 3. 管理費と将来負担を総額で比べる  
 永代供養でも個別安置期間や合祀条件で総額は変わります。追加費用が発生する条件を契約前に明文化してもらうと判断しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>継承者不在や将来の改葬を見据えた相談に対応。比較時に見るべき費用項目を整理できます。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 永代供養と一般墓の違いを豊島区でどう選ぶ？
 
@@ -81,12 +71,7 @@ keywords: ["豊島区 霊園 おすすめ", "豊島区 霊園 費用", "豊島�
 ### Q5. 将来の墓じまいを見据えて契約できますか？
 可能です。改葬許可申請や離檀調整が必要になるため、初回相談時に将来の移転可能性を伝えたうえで条件を比較する方法が実務的です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>改葬や手続きの不明点を事前に整理し、家族で判断しやすくするための相談窓口です。</p>
-<a href="https://haka-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

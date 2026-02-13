@@ -29,12 +29,7 @@ keywords: ["福岡市 永代供養 費用", "福岡市 永代供養 相場", "�
 ※料金は立地、設備、個別安置年数で変動します。最新情報は公式サイトでご確認ください。
 ※上記に加えて、年間5,000～15,000円程度の管理費が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまい・改葬の相談窓口。永代供養と将来の供養計画をまとめて整理しやすくなります。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 福岡市のお墓事情と地域特性
 
@@ -58,12 +53,7 @@ keywords: ["福岡市 永代供養 費用", "福岡市 永代供養 相場", "�
 
 **総括:** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>福岡市内の霊園・墓地を豊富に掲載。見学予約や資料請求が一括で進められます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">福岡市の霊園を探す →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -87,12 +77,7 @@ keywords: ["福岡市 永代供養 費用", "福岡市 永代供養 相場", "�
 
 対策を確認する価値があります。福岡市の西区や博多区は台風時の浸水リスクが指摘されているエリアです。見学時に施設の立地（高台か低地か）、排水設備、保険対応などを確認しておくと、長期的な安心につながります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>永代供養の比較とあわせて、改葬手続きや将来の不安をまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

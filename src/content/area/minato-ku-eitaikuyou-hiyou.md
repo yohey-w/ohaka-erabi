@@ -29,12 +29,7 @@ keywords: ["港区 永代供養 費用", "港区 永代供養 相場", "港区 �
 ※料金は立地・区画サイズ・石材仕様で変動します。最新情報は公式サイトでご確認ください。  
 ※上記に加えて、年額5,000〜15,000円程度の管理費がかかる場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいと改葬の相談窓口。離檀料や書類準備を含めた費用全体を整理しやすいサービスです。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 費用で失敗しにくくする3つの確認ポイント
 
@@ -60,12 +55,7 @@ keywords: ["港区 永代供養 費用", "港区 永代供養 相場", "港区 �
 
 港区に限定せず、品川区や渋谷区まで比較範囲を広げると、同予算で個別安置期間が長いプランが見つかることもあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>将来の改葬も見据え、必要書類や手続き順を事前に確認したい方に向く相談サービスです。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 見学前に使いたい比較サービス
 
@@ -80,12 +70,7 @@ keywords: ["港区 永代供養 費用", "港区 永代供養 相場", "港区 �
 
 この段階で「今は永代供養、将来は墓じまい」という選択肢も含めておくと、家族の状況変化に対応しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>費用と手続きの両面から、墓じまいの準備をまとめて相談できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談の詳細を見る →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 

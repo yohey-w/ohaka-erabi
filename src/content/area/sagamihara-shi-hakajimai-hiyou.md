@@ -31,12 +31,7 @@ keywords: ["相模原市 墓じまい 費用", "相模原市 墓じまい 相場
 
 ※上記に加えて、撤去完了までの期間が3〜6ヶ月かかるため、スケジュール調整が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまいの全体的な流れと費用構成を整理できます。相模原市内の施工例も多く、相談しやすい窓口です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談で費用を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 相模原市の墓じまい事情と地域特性
 
@@ -66,12 +61,7 @@ keywords: ["相模原市 墓じまい 費用", "相模原市 墓じまい 相場
 
 **総括:** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>行政手続きの複雑さを専門スタッフが手厚くサポートします。相模原市内の事例も豊富です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">相談の流れを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -97,12 +87,7 @@ keywords: ["相模原市 墓じまい 費用", "相模原市 墓じまい 相場
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>相模原市で墓じまいを検討されているなら、まずはプロの視点で相談することが解決への第一歩です。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料相談で流れを確認する →</a>
-</div>
+<!-- CTA:bottom -->
 
 相模原市でお墓を閉じる際は、宗旨宗派・アクセス・費用の3点を中心に比較することが大切です。まずは資料請求や現地見学で、複数の霊園を実際に見て回ることをおすすめします。
 

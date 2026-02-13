@@ -32,12 +32,7 @@ keywords: ["名古屋市 納骨堂", "名古屋市 納骨堂 費用", "名古屋
 
 ※上記に加えて年間管理費（5,000〜15,000円程度）が必要な場合があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
-<p>墓じまい・改葬の相談窓口。永代供養と将来の供養計画をまとめて整理しやすくなります。</p>
-<a href="https://af.moshimo.com/af/c/click?a_id=&p_id=&pc_id=&pl_id=" class="cta-button" rel="nofollow sponsored" target="_blank">墓じまいの無料相談をする →</a>
-</div>
+<!-- CTA:top -->
 
 ## 名古屋市のお墓事情と地域特性
 
@@ -65,12 +60,7 @@ keywords: ["名古屋市 納骨堂", "名古屋市 納骨堂 費用", "名古屋
 
 **総括:** 複数の霊園を比較し、現地見学で実際の雰囲気や管理状況を確認することをおすすめします。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>のうこつぼ</h3>
-<p>屋内納骨堂専門のポータルサイト。設備・料金・アクセスで絞り込み検索できます。</p>
-<a href="https://www.noukotubo.com/" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂を検索する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -94,12 +84,7 @@ keywords: ["名古屋市 納骨堂", "名古屋市 納骨堂 費用", "名古屋
 
 立地・参拝設備・費用体系の3点が重要です。実際に現地を訪問し、参拝スペースの広さ、エレベーター設備、駐車場の有無を確認してください。年間行事（合同法要など）の予定も聞いておくと、参拝の通いやすさが見えてきます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>お墓さがし</h3>
-<p>全国の霊園・墓地を費用・アクセスで比較。名古屋市の納骨堂特集ページで絞り込みできます。</p>
-<a href="https://www.ohaka-sagashi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">納骨堂を探す →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 
