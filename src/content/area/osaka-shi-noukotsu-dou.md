@@ -1,7 +1,7 @@
 ---
 title: "大阪市の納骨堂おすすめ比較【2026年最新】費用・種類で選ぶ"
 description: "大阪市で人気の納骨堂を厳選比較。永代供養・納骨堂の費用相場と選び方を解説します。"
-publishedAt: "2026-02-13"
+publishedAt: "2026-02-14"
 category: "area"
 area: "大阪市"
 keyword: "大阪市 納骨堂"

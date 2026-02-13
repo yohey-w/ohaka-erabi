@@ -1,7 +1,7 @@
 ---
 title: "仙台市の納骨堂おすすめガイド【2026年最新】費用・立地で比較"
 description: "仙台市で人気の納骨堂を厳選比較。地下鉄沿線アクセス・費用相場・選び方を解説します。"
-publishedAt: "2026-02-13"
+publishedAt: "2026-02-14"
 category: "area"
 area: "仙台市"
 keyword: "仙台市 納骨堂"
