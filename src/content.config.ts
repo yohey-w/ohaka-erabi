@@ -5,7 +5,7 @@ const articleSchema = z.object({
   description: z.string(),
   publishedAt: z.string(),
   updatedAt: z.string().optional(),
-  category: z.enum(['ranking', 'vs', 'area', 'review', 'specialty']),
+  category: z.enum(['ranking', 'vs', 'area', 'review', 'specialty', 'guide']),
   area: z.string().optional(),
   services: z.array(z.string()).optional(),
   keywords: z.array(z.string()).optional(),
@@ -16,5 +16,6 @@ const ranking = defineCollection({ type: 'content', schema: articleSchema });
 const vs = defineCollection({ type: 'content', schema: articleSchema });
 const area = defineCollection({ type: 'content', schema: articleSchema });
 const review = defineCollection({ type: 'content', schema: articleSchema });
+const guide = defineCollection({ type: 'content', schema: articleSchema });
 
-export const collections = { ranking, vs, area, review };
+export const collections = { ranking, vs, area, review, guide };
