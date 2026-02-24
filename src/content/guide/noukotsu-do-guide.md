@@ -132,6 +132,14 @@ ICカードや専用カードをかざすと、機械が自動的に遺骨を参
 
 誠実な寺院は「後継者については〇〇で、廃業時は〇〇法人と連携する契約をしています」のように具体的に答えます。曖昧な回答しか得られない場合はリスクの高い施設と判断してください。
 
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
+<p>「納骨堂の費用や選び方を詳しく知りたい」——専門家への無料相談で費用感・選び方のポイントが分かります。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-medium">墓じまいの費用・手順を詳しく見る →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
+</div>
+
 ## 状況別：どのタイプを選ぶか
 
 **都市部在住・近くに行きたい → 駅近の自動搬送型または仏壇型**
