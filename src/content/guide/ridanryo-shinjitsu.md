@@ -54,12 +54,12 @@ keywords: ["離檀料 相場", "離檀料 拒否", "檀家 やめたい"]
 | **30万円以上** | 高額 | 法的根拠のない慣習の域を出ている |
 | **100万円以上** | 法外 | 明らかに不当。交渉・専門機関への相談を |
 
-<!-- AFFILIATE_PENDING: わたしたちの墓じまい / 報酬¥30,000 -->
-<div class="cta-box cta-pending">
+<div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
+<h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>離檀料の交渉で困っている方のご相談を受け付けています。専門家が状況に合ったアドバイスをします。</p>
-<!-- LINK_PLACEHOLDER -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-soft">まずは無料で墓じまいの資料を請求する →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ---
@@ -96,12 +96,12 @@ X（旧Twitter）では離檀料に関する投稿が定期的に話題になり
 3. **消費生活センターへ相談**: 0120-797-110（つながる事業者の苦情も受付）
 4. **弁護士への相談**: 初回無料相談を活用。「払う義務はないが〇万円で解決した方が早い」という現実的な判断ができます
 
-<!-- AFFILIATE_PENDING: わたしたちの墓じまい / 報酬¥30,000 -->
-<div class="cta-box cta-pending">
+<div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
+<h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>離檀交渉のサポートも対応しています。「どう伝えればいいか分からない」という方もお気軽に。</p>
-<!-- LINK_PLACEHOLDER -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-medium">墓じまいの費用・手順を詳しく見る →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ---
@@ -138,10 +138,10 @@ X（旧Twitter）では離檀料に関する投稿が定期的に話題になり
 
 「離檀料が怖いから墓じまいできない」という状況から一歩踏み出すために、まず専門家に相談して状況を整理することをお勧めします。
 
-<!-- AFFILIATE_PENDING: わたしたちの墓じまい / 報酬¥30,000 -->
-<div class="cta-box cta-pending">
+<div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>わたしたちの墓じまい</h3>
+<h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>離檀料の問題も含めて、墓じまいの全プロセスをサポート。「何から始めればいいか」という段階からご相談ください。</p>
-<!-- LINK_PLACEHOLDER -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-hard">今すぐ無料相談を申し込む →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
