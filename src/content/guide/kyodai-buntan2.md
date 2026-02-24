@@ -91,7 +91,8 @@ keywords: ["お墓 費用 長男 全額 払わない", "お墓 兄弟 揉める 
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「お墓費用の兄弟間のもめ事を解決したい」「費用分担の話し合い方を知りたい」——専門家への無料相談で、状況に合った分担方法と話し合いの進め方を一緒に整理できます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-soft">まずは無料で墓じまいの資料を請求する →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ## 費用分担を決める話し合いの進め方
@@ -136,7 +137,8 @@ keywords: ["お墓 費用 長男 全額 払わない", "お墓 兄弟 揉める 
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>お墓費用の兄弟間トラブル、長男への全額請求問題、費用分担の話し合い方など、具体的な状況に合わせてご相談いただけます。法的な観点と実務的な選択肢を整理したうえでアドバイスします。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-hard">今すぐ無料相談を申し込む →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ## まとめ

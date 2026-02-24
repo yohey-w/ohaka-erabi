@@ -69,7 +69,8 @@ ICカードや専用カードをかざすと、機械が自動的に遺骨を参
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「ロッカー型と仏壇型どちらが合うか」「駅近の納骨堂を費用で比較したい」——無料相談で最適な選択肢を整理できます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-soft">まずは無料で墓じまいの資料を請求する →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ## 納骨堂を選ぶ5つの基準
@@ -149,7 +150,8 @@ ICカードや専用カードをかざすと、機械が自動的に遺骨を参
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>納骨堂のタイプ・費用・アクセス条件を整理して、最適な施設選びをサポートします。「ロッカー型と仏壇型のどちらが自分に合うか知りたい」「寺院運営のリスクが心配」というご相談も承ります。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-hard">今すぐ無料相談を申し込む →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ## まとめ
