@@ -69,7 +69,8 @@ X上の調査では「散骨を選んだ家族の体験談がX上に増えてい
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「散骨の費用や手続きを確認したい」「信頼できる業者の選び方を相談したい」——専門家への無料相談で準備を整えられます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-soft">まずは無料で墓じまいの資料を請求する →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ---
@@ -138,9 +139,11 @@ X上の調査では「散骨を選んだ家族の体験談がX上に増えてい
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「散骨を検討しているが手続きや費用がわからない」「家族への説明の仕方を相談したい」——専門家への無料相談で、散骨に向けた準備を一緒に整理できます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-medium">墓じまいの費用・手順を詳しく見る →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 **今すぐ無料相談する →**
 
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-hard">今すぐ無料相談を申し込む →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">

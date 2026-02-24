@@ -70,7 +70,8 @@ X上では「お墓の費用が想定の3倍だったという後悔の声が多
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「30年トータルコストを種類別に比較したい」「維持費ゼロのお墓を探したい」——費用の疑問を無料で整理できます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-soft">まずは無料で墓じまいの資料を請求する →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ---
@@ -153,7 +154,8 @@ X上では「お墓の費用が想定の3倍だったという後悔の声が多
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「30年で総額いくらになるか知りたい」「維持費ゼロのお墓を探したい」——費用の疑問は無料相談で整理できます。相談後に契約する義務はありません。まず数字を把握してから判断しましょう。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-medium">墓じまいの費用・手順を詳しく見る →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ---
@@ -168,4 +170,5 @@ X上では「お墓の費用が想定の3倍だったという後悔の声が多
 
 **今すぐ無料相談する →**
 
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-hard">今すぐ無料相談を申し込む →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">

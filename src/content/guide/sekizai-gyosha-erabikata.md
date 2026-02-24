@@ -87,7 +87,8 @@ X上で確認されたトラブルの声：
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「石材業者の選び方がわからない」「見積もりをどう比較すればいいか相談したい」——専門家への無料相談で業者選びの基準を整理できます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-soft">まずは無料で墓じまいの資料を請求する →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 ## 寺院が指定石材店を持っている場合の対応
@@ -161,9 +162,11 @@ X上で確認されたトラブルの声：
 <span class="cta-badge">PR</span>
 <h3>わたしたちの墓じまい — お墓の無料相談窓口</h3>
 <p>「石材業者の選び方がわからない」「見積もりをどう比較すればよいか相談したい」——専門家への無料相談で、業者選びと費用の基準を一緒に整理できます。</p>
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-medium">墓じまいの費用・手順を詳しく見る →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
 </div>
 
 **今すぐ無料相談する →**
 
-<!-- AFFILIATE_PENDING_WATASHITACHI_HAKAJIMAI -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" rel="nofollow" class="cta-button cta-hard">今すぐ無料相談を申し込む →</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AX9GA+6WV7N6+5HQW+5YRHE" alt="">
