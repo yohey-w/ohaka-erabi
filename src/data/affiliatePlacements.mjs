@@ -23,6 +23,13 @@ export const affiliatePrograms = {
     status: 'active',
     affiliateUrl: 'https://af.moshimo.com/af/c/click?a_id=5382117&p_id=4226&pc_id=10760&pl_id=57572',
   },
+  hakajimai: {
+    name: 'わたしたちの墓じまい',
+    network: 'A8',
+    rewardYen: 30000,
+    status: 'active',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+6WVBI2+5HQW+5YRHE',
+  },
 };
 
 export const affiliatePlacements = {
@@ -43,11 +50,11 @@ export const affiliatePlacements = {
     note: PR_NOTE,
   },
   bottom: {
-    title: '最終判断前に供養方法を比較',
+    title: '墓じまいを検討中の方へ',
     description:
-      '海洋散骨・手元供養・従来のお墓、それぞれの費用と特徴を比較して最適な方法を選びましょう。',
-    buttonText: 'シーセレモニーの最新情報を確認する →',
-    affiliateUrl: affiliatePrograms.seaCeremony.affiliateUrl,
+      '「わたしたちの墓じまい」は墓じまいの手続き・改葬先探し・行政届出まで一括サポート。費用目安と流れを確認できます。',
+    buttonText: 'わたしたちの墓じまいに無料相談する →',
+    affiliateUrl: affiliatePrograms.hakajimai.affiliateUrl,
     note: PR_NOTE,
   },
 };
