@@ -34,11 +34,11 @@ export const affiliatePrograms = {
 
 export const affiliatePlacements = {
   top: {
-    title: 'お墓・供養の新しい選択肢を確認',
+    title: '墓じまいの無料相談先を確認',
     description:
-      'シーセレモニーは小型クルーザーでの家族だけの海洋散骨サービス。まずは費用目安と流れを確認しましょう。',
-    buttonText: 'シーセレモニーの詳細を見る →',
-    affiliateUrl: affiliatePrograms.seaCeremony.affiliateUrl,
+      '「わたしたちの墓じまい」は墓じまいの手続き、改葬先探し、行政届出まで一括サポート。費用目安と流れをまとめて確認できます。',
+    buttonText: 'わたしたちの墓じまいに無料相談する →',
+    affiliateUrl: affiliatePrograms.hakajimai.affiliateUrl,
     note: PR_NOTE,
   },
   middle: {
@@ -50,11 +50,11 @@ export const affiliatePlacements = {
     note: PR_NOTE,
   },
   bottom: {
-    title: '墓じまいを検討中の方へ',
+    title: '海洋散骨という選択肢も確認',
     description:
-      '「わたしたちの墓じまい」は墓じまいの手続き・改葬先探し・行政届出まで一括サポート。費用目安と流れを確認できます。',
-    buttonText: 'わたしたちの墓じまいに無料相談する →',
-    affiliateUrl: affiliatePrograms.hakajimai.affiliateUrl,
+      'シーセレモニーは小型クルーザーで家族だけの海洋散骨に対応。供養の選択肢を広げたい方はサービス詳細を確認できます。',
+    buttonText: 'シーセレモニーの詳細を見る →',
+    affiliateUrl: affiliatePrograms.seaCeremony.affiliateUrl,
     note: PR_NOTE,
   },
 };
